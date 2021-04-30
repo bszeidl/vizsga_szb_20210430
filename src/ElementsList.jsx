@@ -47,7 +47,7 @@ const ElementsList = () => {
 
 	return (
 		<div className="elements-container">
-			<input type="text" placeholder="keresés" onChange={(event) => {setSearch(event.target.value)}}/>
+			{/*<input type="text" placeholder="keresés" onChange={(event) => {setSearch(event.target.value)}}/>*/}
 			
 		{
 			!isLoaded ?
