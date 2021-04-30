@@ -4,7 +4,7 @@ const App = () => {
 
   return (
     <div className="App">
-      Todo...
+      <h1>NBA Teams - all star voting</h1>
     </div>
   )
 }
