@@ -3,3 +3,4 @@ initial commit before cloning
 new commit
 new commit
 new commit
+A második és harmadik feladatokon dolgoztam.
